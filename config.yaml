@@ -1,0 +1,15 @@
+data:
+  dti_file: data/raw/4Ddwi_b1000.nii.gz
+  bval_file: data/raw/data.bval
+  bvec_file: data/raw/data.bvec
+
+tracking:
+  fa_threshold: 0.2
+  step_size: 0.5
+  seed_count: 2000
+  max_angle: 30
+
+visualization:
+  background: black
+  streamline_color: white
+  show_axes: true
