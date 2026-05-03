@@ -1,6 +1,4 @@
-Here is a **professional-grade `README.md`** tailored for the DTI Tractography project. It includes badges, clear sections, technical depth, and contribution guidelines. Copy and paste this into your repository.
 
-```markdown
 # 🧠 3D DTI Tractography Visualization
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://python.org)
